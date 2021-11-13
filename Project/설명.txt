@@ -1,7 +1,0 @@
-
-1. CDataInAppOne : 클라 asset 데이터와 서버 net데이터를 조합한 cs파일입니다. mvc패턴중에서 model부분에 해당하며
-인앱 상점에 상품의 필요한 정보를 가지고있습니다.
-InappUML이미지에 파란색에 해당하는 부분입니다.
-
-2. CUIInAppPurchaseEventItemCell, CUIInAppPurchaseSingleItemCell은 CUIInAppPurchaseItemCell을 공통된 기능들은 상속받고 있습니다. 
-InappUML이미지에 빨간색에 해당하는 부분입니다.
