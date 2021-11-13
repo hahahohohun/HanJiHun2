@@ -35,7 +35,6 @@ public class CUIInAppPurchaseEventItemCell : CUIInAppPurchaseItemCell
     {
         if (!cAppShopModel.m_CDataInAppOne.IsCurrentLimitCount())
         {
-            ins_txtEventStampDes.text = "SOLD OUT";
             ins_objBuyedMask.SetActive(true);
             ins_objEventStamp.SetActive(true);
             ins_btn.enabled = false;
